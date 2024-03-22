@@ -18,7 +18,7 @@
 1. `dataPZ.xlsx` contains prefecture-level data on Japanese manufacturing firms:
     * Nominal minimum wage (`MW_yen`): Japanese Yen (JPY)
     * Total number of firms (`Nfirms`): Number of firms
-    * Total employment (`L`): Number of firms
+    * Total employment (`L`): Number of employees
     * Total wages and salaries (`Wage`): Japanese Yen (JPY)
     * Total intermediate inputs (`Inter`): Japanese Yen (JPY)
     * Total revenue (`R`): Japanese Yen (JPY)
